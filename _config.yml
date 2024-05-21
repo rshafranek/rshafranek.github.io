@@ -122,7 +122,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:richard.shafranek@gmail.com"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-github"
       url: "https://www.linkedin.com/in/richardshafranek"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
