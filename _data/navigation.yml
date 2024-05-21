@@ -2,11 +2,11 @@
 main:
   - title: "Home"
     url: https://rshafranek.github.io
-   - title: "About"
-     url: https://rshafranek.github.io/about/
-   - title: "CV"
-     url: https://rshafranek.github.io/cv/
-   - title: "Research"
-     url: https://rshafranek.github.io/research/
-   - title: "Blog"
-     url: https://rshafranek.github.io/blog/
+   #- title: "About"
+   #  url: https://rshafranek.github.io/about/
+   #- title: "CV"
+   #  url: https://rshafranek.github.io/cv/
+   #- title: "Research"
+   #  url: https://rshafranek.github.io/research/
+   #- title: "Blog"
+   #  url: https://rshafranek.github.io/blog/
