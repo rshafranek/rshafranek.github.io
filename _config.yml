@@ -152,6 +152,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rshafranek"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/richardshafranek"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
