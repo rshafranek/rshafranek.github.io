@@ -7,3 +7,13 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+a[href^="http://"]:after, a[href^="https://"]:after {
+    content: "\f08e";
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 3px;
+}
