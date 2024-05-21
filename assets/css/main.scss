@@ -8,7 +8,7 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-a[href^="http://"]:hover::after, a[href^="https://"]:hover::after {
+a[href^="http://"]:hover:after, a[href^="https://"]:hover:after {
     content: "\f0c1";
     font-family: FontAwesome;
     font-weight: normal;
