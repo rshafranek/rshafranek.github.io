@@ -3,7 +3,7 @@ main:
    - title: "Home"
      url: rshafranek.github.io
    - title: "About"
-     url: rshafranek.github.io/about/
+     url: https://rshafranek.github.io/about/
    #- title: "CV"
    #  url: https://rshafranek.github.io/cv/
    #- title: "Research"
