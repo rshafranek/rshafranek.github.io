@@ -1,13 +1,6 @@
 ---
 title: "Where I've Been"
 date: "2024-05-22"
-layout: post
-author_profile: true
-always_allow_html: true
-output:
-  md_document:
-    variant: markdown_github
-    preserve_yaml: true
 ---
 
 ## Location history data
