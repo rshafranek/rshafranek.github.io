@@ -1,6 +1,7 @@
 ---
 title: "Where I've Been"
 date: 2024-05-22
+classes: wide
 ---
 
 ## Location history data
