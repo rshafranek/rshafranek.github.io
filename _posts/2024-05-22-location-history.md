@@ -3,6 +3,7 @@ title: "Where I've Been"
 author: "Richard M. Shafranek"
 date: "2024-05-22"
 layout: post
+author_profile: true
 always_allow_html: true
 output:
   md_document:
@@ -30,6 +31,7 @@ You can also embed plots, for example:
 <img src="/images/ggplot-1.png" width="100%" />
 
 ## Interactive (plotly) plot
+<iframe src="/images/interactive_map.html" width="100%" height="600"></iframe>
 
 <!-- ## Interactive (plotly) plot -->
 <!-- ```{r plotly, echo=FALSE, fig.width = 10, fig.height = 6, out.width = "100%"} -->
