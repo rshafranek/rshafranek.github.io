@@ -1,6 +1,6 @@
 ---
 title: "Where I've Been"
-date: "2024-05-22"
+date: 2024-05-22
 ---
 
 ## Location history data
@@ -24,8 +24,3 @@ You can also embed plots, for example:
 
 ## Interactive (plotly) plot
 <iframe src="/images/interactive_map.html" width="100%" height="600"></iframe>
-
-<!-- ## Interactive (plotly) plot -->
-<!-- ```{r plotly, echo=FALSE, fig.width = 10, fig.height = 6, out.width = "100%"} -->
-<!-- maptry_plotly -->
-<!-- ``` -->
