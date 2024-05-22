@@ -4,9 +4,9 @@ main:
      url: rshafranek.github.io
    - title: "About"
      url: /about/
-   #- title: "CV"
-   #  url: https://rshafranek.github.io/cv/
-   #- title: "Research"
-   #  url: https://rshafranek.github.io/research/
+   - title: "CV"
+     url: /cv/
+   - title: "Projects"
+     url: /projects/
    #- title: "Blog"
    #  url: https://rshafranek.github.io/blog/
