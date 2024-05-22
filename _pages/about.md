@@ -1,6 +1,4 @@
 ---
-layout: single
-author_profile: true
 title: "About me"
 permalink: /about/
 date: 2024-05-22
