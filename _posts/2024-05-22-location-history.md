@@ -1,6 +1,5 @@
 ---
 title: "Where I've Been"
-author: "Richard M. Shafranek"
 date: "2024-05-22"
 layout: post
 author_profile: true
