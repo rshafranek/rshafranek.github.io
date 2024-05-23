@@ -1,7 +1,9 @@
 /* ==========================================================================
    MASTHEAD
    ========================================================================== */
-
+.icon-link {
+  cursor: pointer !important;
+}
 .masthead {
   position: relative;
   border-bottom: 1px solid $border-color;
