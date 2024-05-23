@@ -16,8 +16,23 @@
   {%- endif %}
 </script>
 
-<!-- For all browsers -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css" id="theme_source"> 
+<script>
+    let theme = sessionStorage.getItem('theme');
+    if(theme === "dark")
+    {
+      sessionStorage.setItem('theme', 'dark');
+      node1 = document.getElementById('theme_source');
+      node2 = document.getElementById('theme_source_2');
+      node1.setAttribute('rel', 'stylesheet alternate'); 
+      node2.setAttribute('rel', 'stylesheet');
+    }
+    else
+    {
+      sessionStorage.setItem('theme', 'light');
+    }
+</script>
 <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
 
