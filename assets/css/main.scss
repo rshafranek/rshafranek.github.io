@@ -27,5 +27,5 @@ a[href^="http://"]:hover:after, a[href^="https://"]:hover:after {
 }
 
 .icon-link {
-  cursor: pointer;
+  cursor: pointer !important;
 }
