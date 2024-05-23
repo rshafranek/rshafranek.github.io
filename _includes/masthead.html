@@ -22,7 +22,7 @@
             </li>
           {%- endfor -%}
         </ul>
-        <i class="fas fa-fw fa-sun" aria-hidden="true" onclick="toggleThemeAndIcon(this)"></i>
+        <i class="fa-solid fa-moon" aria-hidden="true" onclick="toggleThemeAndIcon(this)"></i>
 
 <script>
   function toggleThemeAndIcon(icon) {
@@ -33,14 +33,14 @@
       node1.setAttribute('rel', 'stylesheet alternate');
       node2.setAttribute('rel', 'stylesheet');
       sessionStorage.setItem('theme', 'dark');
-      icon.classList.remove('fa-sun');
-      icon.classList.add('fa-moon');
+      icon.classList.remove('fa-moon');
+      icon.classList.add('fa-sun');
     } else {
       node2.setAttribute('rel', 'stylesheet alternate');
       node1.setAttribute('rel', 'stylesheet');
       sessionStorage.setItem('theme', 'light');
-      icon.classList.remove('fa-moon');
-      icon.classList.add('fa-sun');
+      icon.classList.remove('fa-sun');
+      icon.classList.add('fa-moon');
     }
 
     return false;
