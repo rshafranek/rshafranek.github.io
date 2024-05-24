@@ -1,10 +1,10 @@
 ---
 title: "Where I've Been"
+excerpt: "In this post, I export and analyze ~10 years of my Google Location History using R. What I find might shock you!"
 date: 2024-05-22
 classes: wide
 header:
   teaser: "/images/teaser_plot.png"
-excerpt: "In this post, I export and analyze ~10 years of my Google Location History using R. What I find might shock you!
 ---
 
 ## Location history data
