@@ -2,6 +2,8 @@
 title: "Where I've Been"
 date: 2024-05-22
 classes: wide
+header:
+  teaser: "/images/teaser_plot.png"
 ---
 
 ## Location history data
