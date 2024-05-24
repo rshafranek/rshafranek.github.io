@@ -57,14 +57,14 @@
       if (savedTheme === 'dark') {
         node1.setAttribute('rel', 'stylesheet alternate');
         node2.setAttribute('rel', 'stylesheet');
-        icon.classList.remove('fa-sun');
-        icon.classList.add('fa-moon');
+        icon.classList.remove('fa-moon');
+        icon.classList.add('fa-sun');
         icon.setAttribute('title', 'Enable light mode');
       } else {
         node2.setAttribute('rel', 'stylesheet alternate');
         node1.setAttribute('rel', 'stylesheet');
-        icon.classList.remove('fa-moon');
-        icon.classList.add('fa-sun');
+        icon.classList.remove('fa-sun');
+        icon.classList.add('fa-moon');
         icon.setAttribute('title', 'Enable dark mode');
       }
     }
