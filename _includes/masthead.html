@@ -32,14 +32,14 @@
     if (node1.getAttribute('rel') == 'stylesheet') {
       node1.setAttribute('rel', 'stylesheet alternate');
       node2.setAttribute('rel', 'stylesheet');
-      sessionStorage.setItem('theme', 'dark');
+      localStorage.setItem('theme', 'dark');
       icon.classList.remove('fa-moon');
       icon.classList.add('fa-sun');
       icon.setAttribute('title', 'Enable light mode');
     } else {
       node2.setAttribute('rel', 'stylesheet alternate');
       node1.setAttribute('rel', 'stylesheet');
-      sessionStorage.setItem('theme', 'light');
+      localStorage.setItem('theme', 'light');
       icon.classList.remove('fa-sun');
       icon.classList.add('fa-moon');
       icon.setAttribute('title', 'Enable dark mode');
