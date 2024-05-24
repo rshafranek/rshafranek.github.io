@@ -8,7 +8,7 @@ sidebar:
   - title: "Citation"
     text: "Rothschild, Jacob E., Adam J. Howat, Richard M. Shafranek, and Ethan C. Busby. 'Pigeonholing partisans: Stereotypes of party supporters and partisan polarization.' _Political Behavior_ 41 (2019): 423-443."
   - title: "DOI"
-    text: "[10.7910/DVN/U23L09](https://doi.org/10.7910/DVN/U23L09)"
+    text: "[10.1007/s11109-018-9457-5](https://doi.org/10.1007/s11109-018-9457-5)"
 gallery:
   - url: images/table5_pobe_stereotypes.png
     image_path: images/table5_pobe_stereotypes.png
