@@ -6,4 +6,4 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 ---
-Sample document listing for the collection `_portfolio`.
+Published research and other projects. Papers available upon request.
