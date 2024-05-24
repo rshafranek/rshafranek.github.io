@@ -4,7 +4,7 @@ excerpt: "In this article, we use an e-mail correspondence study to explore the 
 header:
   teaser: /images/fig1.png
 sidebar:
-  - title: "Role"
+  - title: "Citation"
     image: http://placehold.it/350x250
     image_alt: "logo"
     text: "Designer, Front-End Developer"
