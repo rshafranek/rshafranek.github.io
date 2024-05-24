@@ -15,7 +15,7 @@ gallery:
   - url: /images/fig1.png
     image_path: /images/fig1.png
     alt: "Figure 1."
-    - url: /images/fig1.png
+  - url: /images/fig1.png
     image_path: /images/fig1.png
     alt: "Figure 1 again."
 ---
