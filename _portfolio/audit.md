@@ -4,12 +4,12 @@ excerpt: "In this article, we use an e-mail correspondence study to explore the 
 header:
   teaser: /images/fig1.png
 sidebar:
-  - title: "Citation"
-  - image: http://placehold.it/350x250
+  - title: "Role"
+    image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Druckman, James N., and Richard M. Shafranek. "The intersection of racial and partisan discrimination: Evidence from a correspondence study of four-year colleges." _The Journal of Politics_ 82, no. 4 (2020): 1602-1606."
-  - title: "DOI"
-    text: "[Reuters try PR stupid commenters should isn't a business model](https://doi.org/10.1086/708776)"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /images/fig1.png
     image_path: /images/fig1.png
