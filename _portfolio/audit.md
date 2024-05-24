@@ -6,11 +6,9 @@ header:
   teaser: /images/fig1.png
 sidebar:
   - title: "Citation"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
     text: "Druckman, James N., and Richard M. Shafranek. 'The intersection of racial and partisan discrimination: Evidence from a correspondence study of four-year colleges.' The Journal of Politics 82, no. 4 (2020): 1602-1606."
   - title: "DOI"
-    text: "[Reuters try PR stupid commenters should isn't a business model](https://doi.org/10.1086/708776)"
+    text: "[10.1086/708776](https://doi.org/10.1086/708776)"
 gallery:
   - url: /images/fig1.png
     image_path: /images/fig1.png
