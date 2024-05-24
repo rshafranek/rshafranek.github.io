@@ -6,7 +6,7 @@ header:
   teaser: /images/fig4pobe.png
 sidebar:
   - title: "Citation"
-    text: "Shafranek, Richard M. "Political considerations in nonpolitical decisions: A conjoint analysis of roommate choice." _Political Behavior_ 43, no. 1 (2021): 271-300."
+    text: "Shafranek, Richard M. 'Political considerations in nonpolitical decisions: A conjoint analysis of roommate choice.' _Political Behavior_ 43, no. 1 (2021): 271-300."
   - title: "DOI"
     text: "[10.1007/s11109-019-09554-9](https://doi.org/10.1007/s11109-019-09554-9)"
 gallery:
