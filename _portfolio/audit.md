@@ -6,15 +6,15 @@ header:
   teaser: /images/fig1.png
 sidebar:
   - title: "Citation"
-    text: "Druckman, James N., and Richard M. Shafranek. 'The intersection of racial and partisan discrimination: Evidence from a correspondence study of four-year colleges.' The Journal of Politics 82, no. 4 (2020): 1602-1606."
+    text: "Druckman, James N., and Richard M. Shafranek. 'The intersection of racial and partisan discrimination: Evidence from a correspondence study of four-year colleges.' _The Journal of Politics_ 82, no. 4 (2020): 1602-1606."
   - title: "DOI"
     text: "[10.1086/708776](https://doi.org/10.1086/708776)"
 gallery:
-  - url: /images/fig1.png
+  - url: images/fig1.png
     image_path: /images/fig1.png
     alt: "Figure 1."
   - url: /images/fig1.png
-    image_path: /images/fig1.png
+    image_path: images/fig1.png
     alt: "Figure 1 again."
 ---
 
