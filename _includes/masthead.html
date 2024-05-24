@@ -47,6 +47,29 @@
 
     return false;
   }
+
+  function applySavedTheme() {
+      const savedTheme = localStorage.getItem('theme');
+      const icon = document.querySelector('.icon-link');
+      const node1 = document.getElementById('theme_source');
+      const node2 = document.getElementById('theme_source_2');
+
+      if (savedTheme === 'dark') {
+        node1.setAttribute('rel', 'stylesheet alternate');
+        node2.setAttribute('rel', 'stylesheet');
+        icon.classList.remove('fa-sun');
+        icon.classList.add('fa-moon');
+        icon.setAttribute('title', 'Enable light mode');
+      } else {
+        node2.setAttribute('rel', 'stylesheet alternate');
+        node1.setAttribute('rel', 'stylesheet');
+        icon.classList.remove('fa-moon');
+        icon.classList.add('fa-sun');
+        icon.setAttribute('title', 'Enable dark mode');
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', applySavedTheme);
 </script>
 
         {% if site.search == true %}
