@@ -4,7 +4,7 @@ excerpt: "In this post, I export and analyze ~10 years of my Google Location His
 date: 2024-05-22
 classes: wide
 header:
-  teaser: "/images/teaser_plot.png"
+  teaser: "/images/teaser_plot2.png"
 ---
 
 ## Location history data
