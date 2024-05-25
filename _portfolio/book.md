@@ -3,7 +3,7 @@ title: "Book: _The Partisan Next Door_"
 author_profile: false
 excerpt: "Using data from surveys, experiments, and Americans' own words, we explore the content of partisan stereotypes."
 header:
-  teaser: /images/pnd.jpg
+  teaser: /images/pnd_teaser.jpg
 sidebar:
   - title: "Citation"
     text: "Busby, Ethan C., Adam J. Howat, Jacob E. Rothschild, and Richard M. Shafranek. _The Partisan Next Door: Stereotypes of Party Supporters and Consequences for Polarization in America_. Cambridge University Press, 2021."
