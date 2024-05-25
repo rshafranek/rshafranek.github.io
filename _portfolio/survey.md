@@ -3,7 +3,7 @@ title: "Survey experiment & affective polarization"
 author_profile: false
 excerpt: "I use a nationally representative survey experiment to assess the consequences of partisanship in nonpolitical settings."
 header:
-  teaser: /images/topic_modeling_stereotypes.png
+  teaser: /images/fig1_600.png
 sidebar:
   - title: "Citation"
     text: "Shafranek, Richard M. 'Political consequences of partisan prejudice.' _Political Psychology_ 41, no. 1 (2020): 35-51."
