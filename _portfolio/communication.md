@@ -3,7 +3,7 @@ title: "Political Communication, Foreign Policy, & Public Opinion"
 author_profile: false
 excerpt: "We review contemporary research at the intersection of political communication and foreign policy."
 header:
-  teaser: /images/polcomm_teaser.jpg
+  teaser: /images/polcomm_teaser.png
 sidebar:
   - title: "Citation"
     text: "Rothschild, Jacob E., and Richard M. Shafranek. 'Advances and opportunities in the study of political communication, foreign policy, and public opinion.' _Political Communication_ 34, no. 4 (2017): 634-643."
