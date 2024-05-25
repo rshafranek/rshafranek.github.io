@@ -3,7 +3,7 @@ title: "Climate change communication"
 author_profile: false
 excerpt: "We employ a survey experiment that explores the generalizability, conditionality, and durability of corrective information regarding climate change."
 header:
-  teaser: /images/topic_modeling_stereotypes.png
+  teaser: /images/full-wcas-d-16-0012_1-t2.jpg
 sidebar:
   - title: "Citation"
     text: "Druckman, James N., and Richard M. Shafranek. 'The conditional nature of the local warming effect.' _Weather, Climate, and Society_ 9, no. 1 (2017): 15-26."
