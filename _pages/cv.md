@@ -63,7 +63,7 @@ created syllabi, scripted and delivered lectures, devised classroom activities a
           <li>Specializations in American political behavior and quantitative research methodology. Completed coursework in probability and statistics, linear regression, analysis of categorical data, advanced econometrics, design and analysis of experiments, structural equation modeling, causal inference, text analysis, and machine learning. Received competitively awarded grant funding from the National Science Foundation and published original solo- and co-authored research in peer-reviewed scientific journals.</li>
           <li>Additional training: 
             <ul>
-<li> Summer Institute in Computational Social Science (2019</li>)
+<li> Summer Institute in Computational Social Science (2019)</li>
 <li> Python Programming & Data Science Bootcamp (2015)</li>
 <li> Northwestern-Duke Workshop on Research Design for Causal Inference (2015)</li>
 <li> ICPSR Summer Program in Quantitative Methods of Social Research (2014)</li>
