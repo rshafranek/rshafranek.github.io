@@ -1,6 +1,11 @@
 ---
 permalink: /cv/
 ---
+
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
 You can view my full academic CV [here](https://rshafranek.github.io/Shafranek_CV.pdf).
 <div class="timeline">
     <div class="timeline-item">
