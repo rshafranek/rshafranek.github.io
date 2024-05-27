@@ -115,6 +115,16 @@ body {
   text-decoration: none;
 }
 
+.timeline-item.graduation::after {
+  content: "fa-regular fa-graduation-cap"; /* Font Awesome Unicode for graduation cap */
+  font-weight: 900;
+  font-size: 20px;
+  color: #007bff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .page {
   @include breakpoint($large) {
     float: right;
