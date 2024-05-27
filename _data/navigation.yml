@@ -2,8 +2,8 @@
 main:
    - title: "Home"
      url: rshafranek.github.io
-   - title: "About"
-     url: /about/
+   #- title: "About"
+   #  url: /about/
    - title: "CV"
      url: /cv/
    - title: "Projects"
