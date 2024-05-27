@@ -3,6 +3,33 @@ title: "CV"
 permalink: /cv/
 ---
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<div class="timeline">
+    <div class="timeline-item">
+      <div class="timeline-icon"></div>
+      <div class="timeline-content">
+        <h2>Senior Data Scientist</h2>
+        <h3>Morningstar, Inc.</h3>
+        <p class="timeline-date">Jan 2023 – Present · Chicago, IL - USA</p>
+        <p>My work revolves around developing cutting-edge tools for data extraction and information acquisition leveraging Deep Learning, Natural Language Processing, Pattern Recognition, and Generative AI.</p>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-icon"></div>
+      <div class="timeline-content">
+        <h2>Data Scientist</h2>
+        <h3>Northwestern University</h3>
+        <p class="timeline-date">Oct 2022 – Jan 2023 · Evanston, IL - USA</p>
+        <p>I worked on developing a suite of tools to enable access to court records and analytics. I designed, developed, and deployed machine/deep learning models for entity resolution, named entity recognition, and text classification.</p>
+      </div>
+    </div>
+  </div>
+
 This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
 > Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
