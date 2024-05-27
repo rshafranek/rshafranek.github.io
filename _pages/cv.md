@@ -40,7 +40,7 @@ using R; created data visualizations using ggplot2, Shiny, and Tableau; automate
       <div class="timeline-content">
         <h2>Adjunct Instructor</h2>
         <h3><a href="https://sps.northwestern.edu/" class="timeline-link">Northwestern University School of Professional Studies</a></h3>
-        <p class="timeline-date">Sept 2018 – Jun 2020 · Evanston, IL - USA</p>
+        <p class="timeline-date">Sep 2018 – Jun 2020 · Evanston, IL - USA</p>
         <p><ul>
           <li>Taught courses on American government, introductory statistics, and research methods as the primary instructor:
 created syllabi, scripted and delivered lectures, devised classroom activities and evaluations.</li>
@@ -53,7 +53,7 @@ created syllabi, scripted and delivered lectures, devised classroom activities a
       <div class="timeline-content">
         <h2>Research Assistant</h2>
         <h3><a href="https://www.ipr.northwestern.edu/" class="timeline-link"> Institute for Policy Research</a></h3>
-        <p class="timeline-date">Sept 2014 – Dec 2019 · Evanston, IL - USA</p>
+        <p class="timeline-date">Sep 2014 – Dec 2019 · Evanston, IL - USA</p>
         <p><ul>
           <li>Used Stata, R, and Python to reshape, clean, and recode data, scrape data from web APIs, conduct statistical
 analyses, and create visualizations; generated research proposals and survey questionnaires; contracted with
