@@ -125,4 +125,16 @@ important industry developments, and industry structure.</li>
         </p>
       </div>
     </div>
+      <div class="timeline-item graduation">
+      <div class="timeline-icon"></div>
+      <div class="timeline-content">
+        <h2>BA - Political Science, English (double major)</h2>
+        <h3><a href="https://www.allegheny.edu" class="timeline-link"> Allegheny College</a></h3>
+        <p class="timeline-date">Aug 2006 – Jun 2010 · Meadville, PA - USA</p>
+        <p><ul>
+          <li>Graduated magna cum laude, Phi Beta Kappa. Awarded the Interdisciplinary Studies Faculty Prize for the best senior thesis in an interdisciplinary field.</li>
+        </ul>
+        </p>
+      </div>
+    </div>
   </div>
