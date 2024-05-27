@@ -126,7 +126,7 @@ important industry developments, and industry structure.</li>
       </div>
     </div>
       <div class="timeline-item graduation">
-      <div class="timeline-icon"></div>
+      <div class="timeline-icon"><i class="fa-regular fa-graduation-cap"></i></div>
       <div class="timeline-content">
         <h2>BA - Political Science, English (double major)</h2>
         <h3><a href="https://www.allegheny.edu" class="timeline-link"> Allegheny College</a></h3>
