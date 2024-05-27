@@ -110,6 +110,11 @@ body {
   margin: 0;
 }
 
+.timeline-link {
+  color: #555;
+  text-decoration: none;
+}
+
 .page {
   @include breakpoint($large) {
     float: right;
