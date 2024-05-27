@@ -53,6 +53,26 @@ created syllabi, scripted and delivered lectures, devised classroom activities a
         </p>
       </div>
     </div>
+    <div class="timeline-item graduation">
+      <div class="timeline-icon"><i class="fa-solid fa-graduation-cap"></i></div>
+      <div class="timeline-content">
+        <h2>Doctor of Philosophy (PhD)</h2>
+        <h3><a href="https://polisci.northwestern.edu/" class="timeline-link"> Northwestern University</a></h3>
+        <p class="timeline-date">Sep 2013 – Feb 2020 · Evanston, IL - USA</p>
+        <p><ul>
+          <li>Specializations in American political behavior and quantitative research methodology. Completed coursework in probability and statistics, linear regression, analysis of categorical data, advanced econometrics, design and analysis of experiments, structural equation modeling, causal inference, text analysis, and machine learning. Received competitively awarded grant funding from the National Science Foundation and published original solo- and co-authored research in peer-reviewed scientific journals.</li>
+          <li>Additional training: 
+            <ul>
+<li> Summer Institute in Computational Social Science (2019</li>)
+<li> Python Programming & Data Science Bootcamp (2015)</li>
+<li> Northwestern-Duke Workshop on Research Design for Causal Inference (2015)</li>
+<li> ICPSR Summer Program in Quantitative Methods of Social Research (2014)</li>
+            </ul>
+          </li>
+        </ul>
+        </p>
+      </div>
+    </div>
     <div class="timeline-item">
       <div class="timeline-icon"></div>
       <div class="timeline-content">
@@ -133,10 +153,11 @@ important industry developments, and industry structure.</li>
       <div class="timeline-item graduation">
       <div class="timeline-icon"><i class="fa-solid fa-graduation-cap"></i></div>
       <div class="timeline-content">
-        <h2>BA - Political Science, English (double major)</h2>
+        <h2>Bachelor of Arts (BA)</h2>
         <h3><a href="https://www.allegheny.edu" class="timeline-link"> Allegheny College</a></h3>
         <p class="timeline-date">Aug 2006 – Jun 2010 · Meadville, PA - USA</p>
         <p><ul>
+          <li>Political Science & English (double major).</li>
           <li>Graduated magna cum laude, Phi Beta Kappa. Awarded the Interdisciplinary Studies Faculty Prize for the best senior thesis in an interdisciplinary field.</li>
         </ul>
         </p>
