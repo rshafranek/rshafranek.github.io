@@ -61,6 +61,18 @@ vendors to field surveys.</li>
         </ul>
         </p>
       </div>
+    </div> 
+      <div class="timeline-item">
+      <div class="timeline-icon"></div>
+      <div class="timeline-content">
+        <h2>Campaign Finance Fellow</h2>
+        <h3><a href="https://en.wikipedia.org/wiki/2018_Illinois_gubernatorial_election#Democratic_primary" class="timeline-link"> Daniel Biss for Governor</a></h3>
+        <p class="timeline-date">Sep 2017 – Jan 2018 · Chicago, IL - USA</p>
+        <p><ul>
+          <li>Assisted with prospect research, call time preparation, compliance, and reporting for an Illinois gubernatorial primary campaign.</li>
+        </ul>
+        </p>
+      </div>
     </div>
       <div class="timeline-item">
       <div class="timeline-icon"></div>
@@ -73,6 +85,42 @@ vendors to field surveys.</li>
 publications, surveys, and interviews – to identify, analyze, and forecast industry trends.</li>
           <li>Authored 300 to 500-page reports summarizing market size and share, product segmentation, market segmentation,
 important industry developments, and industry structure.</li>
+        </ul>
+        </p>
+      </div>
+    </div>
+      <div class="timeline-item">
+      <div class="timeline-icon"></div>
+      <div class="timeline-content">
+        <h2>Regional Field Director</h2>
+        <h3><a href="https://www.deldems.org/" class="timeline-link"> Delaware Democratic Party</a></h3>
+        <p class="timeline-date">Jun 2012 – Dec 2012 · Georgetown, DE - USA</p>
+        <p><ul>
+          <li>Managed a comprehensive field program in Sussex County, Delaware: supervised two field offices and all field staff, interns, and volunteers; oversaw targeted voter contact and get-out-the-vote efforts; liaised with local and statewide campaigns; advised state legislative candidates on campaign strategy.</li>
+        </ul>
+        </p>
+      </div>
+    </div>
+      <div class="timeline-item">
+      <div class="timeline-icon"></div>
+      <div class="timeline-content">
+        <h2>Fulbright Grantee</h2>
+        <h3><a href="https://us.fulbrightonline.org/countries/east-asia-pacific/indonesia" class="timeline-link"> U.S. Department of State</a></h3>
+        <p class="timeline-date">Jul 2011 – May 2012 · Medan, North Sumatra - Indonesia</p>
+        <p><ul>
+          <li>Designed English language curriculum for an Indonesian public high school and taught English to 300 tenth grade students; partnered with the United States Consulate in North Sumatra to promote English language education opportunities and developed programming for an English Teachers’ Forum.</li>
+        </ul>
+        </p>
+      </div>
+    </div>
+      <div class="timeline-item">
+      <div class="timeline-icon"></div>
+      <div class="timeline-content">
+        <h2>AmeriCorps VISTA</h2>
+        <h3><a href="https://americorps.gov/serve/americorps/americorps-vista" class="timeline-link"> Corporation for National and Community Service</a></h3>
+        <p class="timeline-date">Jul 2010 – Jul 2011 · Portage County, OH - USA</p>
+        <p><ul>
+          <li>Built organizational capacity to fight poverty in Portage County, Ohio: wrote grants and oversaw volunteer efforts in support of education-related antipoverty initiatives including after-school mentoring, tutoring, and college access programs.</li>
         </ul>
         </p>
       </div>
