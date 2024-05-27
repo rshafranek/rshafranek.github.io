@@ -60,6 +60,37 @@ body {
   padding-left: 60px; /* Adjust to align the content properly */
 }
 
+.timeline-item .timeline-icon {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 0; /* Align to the left */
+  top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+
+.timeline-item .timeline-icon::before {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  background-color: white;
+  border: 4px solid #007bff;
+  border-radius: 50%;
+  z-index: -1;
+}
+
+.timeline-item.graduation .timeline-icon::before {
+  display: none; /* Hide the circle for graduation items */
+}
+
+.timeline-item.graduation .timeline-icon i {
+  color: #007bff;
+  font-size: 20px;
+}
 .timeline-item::after {
   content: '';
   position: absolute;
@@ -116,7 +147,7 @@ body {
 }
 
 .timeline-item.graduation::after {
-  content: "fa-regular fa-graduation-cap"; /* Font Awesome Unicode for graduation cap */
+  content: <i class="fa-regular fa-graduation-cap"></i>; /* Font Awesome Unicode for graduation cap */
   font-weight: 900;
   font-size: 20px;
   color: #007bff;
