@@ -8,5 +8,5 @@ main:
      url: /cv/
    - title: "Projects"
      url: /portfolio/
-   #- title: "Blog"
-   #  url: https://rshafranek.github.io/blog/
+   - title: "Blog"
+     url: /blog/
