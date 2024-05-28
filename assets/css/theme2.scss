@@ -10,3 +10,12 @@
 .icon-link {
   cursor: pointer !important;
 }
+
+.timeline-item {
+  padding: 20px 0;
+  position: relative;
+  background-color: #252a34;
+  text-color: #eaeaea;
+  width: 100%;
+  padding-left: 60px; /* Adjust to align the content properly */
+}
