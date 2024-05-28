@@ -61,7 +61,7 @@ created syllabi, scripted and delivered lectures, devised classroom activities a
         <h3><a href="https://polisci.northwestern.edu/" class="timeline-link"> Northwestern University</a></h3>
         <p class="timeline-date">Sep 2013 – Feb 2020 · Evanston, IL - USA</p>
         <p><ul>
-          <li>Specializations in American political behavior and quantitative research methodology. Completed coursework in probability and statistics, linear regression, analysis of categorical data, advanced econometrics, design and analysis of experiments, structural equation modeling, causal inference, text analysis, and machine learning. Received competitively awarded grant funding from the National Science Foundation and published original solo- and co-authored research in peer-reviewed scientific journals.</li>
+          <li>Specializations in American political behavior and quantitative research methodology. Completed coursework in probability and statistics, linear regression, analysis of categorical data, advanced econometrics, design and analysis of experiments, structural equation modeling, causal inference, text analysis, and machine learning. Received competitively awarded grant funding and published original solo- and co-authored research in peer-reviewed scientific journals.</li>
           <li>Additional training: 
             <ul>
 <li> Summer Institute in Computational Social Science (2019)</li>
