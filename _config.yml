@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Richard M. Shafranek"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Richard_M_Shafranek.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data scientist, survey researcher, political science PhD."
   location         : "Chicago, IL"
   email            :
