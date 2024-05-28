@@ -4,17 +4,16 @@
 <div itemscope itemtype="https://schema.org/Person" class="h-card">
 
 
-
-  <div class="author__content">
-    <h3 class="author__name p-name" itemprop="name">
-      <a class="u-url" rel="me" href="rshafranek.github.io" itemprop="url">{{ author.name }}</a>
-    </h3>
-    {% if author.avatar %}
+  {% if author.avatar %}
     <div class="author__avatar">
       <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image" class="u-photo">
       <a href="{{ author.home | default: '/' | absolute_url }}"></a>
     </div>
   {% endif %}
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="rshafranek.github.io" itemprop="url">{{ author.name }}</a>
+    </h3>
     {% if author.bio %}
       <div class="author__bio p-note" itemprop="description">
         {{ author.bio | markdownify }}
