@@ -30,6 +30,10 @@ body {
           flex-direction: column;
 }
 
+.timeline-link {
+  text-decoration: none;
+}
+
 .initial-content,
 .search-content {
   flex: 1 0 auto;
