@@ -194,7 +194,7 @@ world <- ne_countries(scale = "medium", returnclass = "sf")
 us_states <- states(resolution = "20m", year = 2022, cb = TRUE)
 
 # let's create some labels for the countries I visited
-world_points<- st_centroid(world)
+world_points <- st_centroid(world)
 world_points <- cbind(world, st_coordinates(st_centroid(world$geometry))) %>% filter(continent=="Europe"|continent=="North America") %>% filter((name_en %in% c("United States of America", "Ireland", "Iceland", "Canada", "Germany", "Belgium", "Netherlands", "Czech Republic", "Hungary")))
 
 # next, we'll define a narrower trip window -- we don't need to see the *whole* world
