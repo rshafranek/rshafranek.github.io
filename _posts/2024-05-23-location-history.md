@@ -34,7 +34,6 @@ the data:
 ``` r
 ### import necessary packages
 
-library(ggmap)
 library(jsonlite)
 library(tidyverse)
 library(sf)
@@ -42,8 +41,6 @@ library(tigris)
 library(ggrepel)
 library(rnaturalearth)
 library(rnaturalearthdata)
-library(maps)
-library(mapdata)
 library(plotly)
 library(lutz) # for time zones
 library(viridis) # for nice graph colors
@@ -168,7 +165,6 @@ places %>%  mutate(hour = hour(hms(time_of_day))) %>%
   theme_minimal() + 
   coord_polar(start=-pi/12) + 
   scale_x_discrete(breaks = 0:23, labels = c("12 AM", "1 AM", "2 AM", "3 AM", "4 AM", "5 AM", "6 AM", "7 AM", "8 AM", "9 AM", "10 AM", "11 AM", "12 PM", "1 PM", "2 PM", "3 PM", "4 PM", "5 PM", "6 PM", "7 PM", "8 PM", "9 PM", "10 PM", "11 PM")) + labs(title = "Number of Visits by Hour of the Day", x = "", y = "") + 
-  #theme_bw() + 
   theme(legend.position="none", axis.text.x = element_text(size = 10, angle = 0, vjust = 0.5, hjust=1), axis.text.y = element_blank(), axis.ticks.y = element_blank(), aspect.ratio = 1) +
   annotate("rect", xmin = -Inf, xmax = Inf, ymin = -Inf, ymax = 0, fill = "white") +
   annotate("point", x = 0, y = -500, size = 38, shape = 21, fill = "white", color = "steelblue") +
