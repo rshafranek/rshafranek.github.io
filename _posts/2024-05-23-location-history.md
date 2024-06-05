@@ -206,7 +206,7 @@ trip_window <- st_sfc(
   st_coordinates()
 
 # convert 'year' to a factor for plotting purposes
-places$year <- as.factor(places_read$year)
+places$year <- as.factor(places$year)
 
 # finally, we'll set up and display the plot
 all_visits <- ggplot() + geom_sf(data = world) + geom_sf(data = us_states, fill=NA) + theme(panel.grid.major = element_line(color = gray(.5), linetype = "dashed", size = 0.25), panel.background = element_rect(fill = "aliceblue")) + geom_sf(data = places, aes(fill=year, size=as.numeric(duration),  text = paste(
