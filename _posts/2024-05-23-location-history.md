@@ -28,8 +28,8 @@ helpful and extensive documentation at
 
 For the sake of readers who might be interested in replicating these
 plots with their own Location History data, I’ve included my R code in
-this post. Let’s start by loading necessary packages and then importing
-the data:
+this post. We'll start by loading necessary packages and then importing
+the data.
 
 ``` r
 ### import necessary packages
@@ -45,7 +45,7 @@ library(plotly)
 library(lutz) # for time zones
 library(viridis) # for nice graph colors
 ```
-
+Rather than a single convenient file, Google generates Location History .json files for each month, so we'll need to piece them together for the purposes of this anaylsis:
 ``` r
 ### load the data
 
