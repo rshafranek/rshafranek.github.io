@@ -1,7 +1,7 @@
 ---
 title: "Cluster analysis & Black voters"
 author_profile: false
-excerpt: "In support of research conducted by the Democracy & Power Innovation Fund (a project hosted at the Rockefeller Family Fund), I conducted a series of cluster analyses to create a typology of the African American electorate. "
+excerpt: "In support of research conducted by the Democracy & Power Innovation Fund, I conducted a series of cluster analyses to create a typology of the African American electorate. "
 header:
   teaser: /images/cluster.png
 sidebar:
