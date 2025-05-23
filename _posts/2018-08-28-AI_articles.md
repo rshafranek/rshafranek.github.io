@@ -11,7 +11,7 @@ For fun and simply because I could (without stopping to ask whether I *should*),
 
 Specifically, I used a Python-based implementation of a recurrent neural network to generate new article names based on a novel dataset of 4,520 political science publications. This dataset includes every article published from 2008-2017 (excluding letters, editorials, and book reviews) in the following journals: *American Journal of Political Science, American Political Science Review, British Journal of Political Science, Comparative Politics, International Organization, International Theory, Journal of Experimental Political Science, Journal of Political Philosophy, Journal of Politics, Political Analysis, Political Science Research and Methods, Public Opinion Quarterly, Studies in American Political Development, World Politics*.
 
-Thanks to Max Woolf's [textgenrnn](https://github.com/minimaxir/textgenrnn/) package, the process couldn't be simpler. We simply load the text file containing our training data, and set the neural net to studying: 
+Thanks to Max Woolf's [textgenrnn](https://github.com/minimaxir/textgenrnn/) package, the process couldn't be more straightforward. We simply load the text file containing our training data, and set the neural net to studying: 
 
 ```python
 # import the package
@@ -37,7 +37,7 @@ What’s the verdict? Are we ready for artificial intelligence to replace human 
 >
 >*The Origins of Politics and the World Party Study*
 >
->*International Responsibility and the Case of Robust Control, 1932-2000*</i>
+>*International Responsibility and the Case of Robust Control, 1932-2000*
 
 Seems like pretty plausible stuff. Throw in some articles about democratic peace, framing, maybe a little Kant, and you’ve got the greatest hits. Give the AI a little more leeway, though, and things get more interesting:
 
