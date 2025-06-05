@@ -10,6 +10,7 @@ header:
 
 ## Location history data
 *Updated 5-Jun-2025*
+
 I’ve been using Google Location History ever since switching to an
 Android device in mid-2016. Many people, understandably concerned about
 their privacy or just plain creeped out by the concept, turn location
