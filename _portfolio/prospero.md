@@ -1,7 +1,7 @@
 ---
 title: "Prospero (local LLM infrastructure)"
 author_profile: false
-excerpt: "Prospero is a self-hosted local AI assistant with RAG, persistent memory, model routing, diagnostics, and document-management tools."
+excerpt: "Prospero is a self-hosted local AI assistant interface with RAG, persistent memory, model routing, diagnostics, and document-management tools."
 header:
   teaser: /images/prospero.png
 sidebar:
