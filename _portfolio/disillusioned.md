@@ -6,7 +6,7 @@ header:
   teaser: /images/polaction_v3.png
 sidebar:
   - title: "Citation"
-    text: "Gamble, Katrina, Martina Smith, and Richard Shafranek. 'Understanding the Disaffected Electorate." 2026.
+    text: "Gamble, Katrina, Martina Smith, and Richard Shafranek. 'Understanding the Disaffected Electorate.' 2026."
   - title: "Link"
     text: "[https://www.dpifund.org/research](https://cdn.prod.website-files.com/64f792f5c75211da2323184e/6a219d59638da241b19ec240_Disaffected%20Electorate%20Project%20FINAL%20Public.pdf)"
 gallery:
