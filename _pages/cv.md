@@ -16,8 +16,8 @@ You can view my full academic CV [here](https://rshafranek.github.io/Shafranek_C
         <h3><a href="https://www.dynata.com/" class="timeline-link">Dynata</a></h3>
         <p class="timeline-date">Jun 2024 – Present · Chicago, IL - USA</p>
         <p><ul>
-          <li> Led methodological development for Dynata’s Ad Solutions data science team, designing and productionizing causal-inference, survey-weighting, and machine-learning workflows in R, Python, and SQL to measure advertising effectiveness using large-scale survey and exposure data.</li>
-<li>Developed an automated panel-equivalence framework combining meta-analysis, machine-learning classification, and permutation testing, enabling defensible transitions of client tracking studies while preserving data quality and continuity.</li>
+          <li> Led methodological development for Dynata’s Ad Solutions data science team, designing and productionizing causal inference, survey weighting, and machine learning workflows in R, Python, and SQL to measure advertising effectiveness using large-scale survey and exposure data.</li>
+<li>Developed an automated panel-equivalence framework combining meta-analysis, classification, and permutation testing, enabling defensible transitions of client tracking studies while preserving data quality and continuity.</li>
           <li>Refactored an end-to-end difference-in-differences pipeline, reducing analyst touch time by more than 90% while adding doubly robust estimation and other methodological safeguards; improved precision by more than 40% and reduced bias by more than 50%.</li>
         </ul>
         </p>
