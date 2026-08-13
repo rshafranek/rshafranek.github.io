@@ -30,12 +30,9 @@ You can view my full academic CV [here](https://rshafranek.github.io/Shafranek_C
         <h3><a href="https://www.nielsen.com/" class="timeline-link">Nielsen</a></h3>
         <p class="timeline-date">Sep 2021 – May 2024 · Chicago, IL - USA</p>
         <p><ul>
-          <li> Served as the primary methodologist for Nielsen’s 750,000-member online survey panel. Developed and implemented
-panel communications strategy; conducted UX research to improve cooperation and retention; standardized
-processes for project scoping, questionnaire development, sampling, and weighting; advised project
-stakeholders regarding research methodology.</li>
-<li>Designed and executed large-scale custom survey research projects for internal stakeholders and third-party
-clients.</li>
+          <li> Served as lead methodologist for Nielsen’s 750,000-member panel, providing scientific leadership across questionnaire design, sampling, weighting, panel operations, measurement validation, and audience measurement methodology.</li>
+          <li> Led research on co-viewing attribution, integrating household viewing records, individual panel data, and survey measures to evaluate competing measurement approaches and implement resulting methodological changes within Nielsen’s production measurement system.</li>
+<li>Designed and analyzed large scale panel experiments and validation studies to assess panel health, improve participant engagement and retention, reduce measurement error, and strengthen data quality.</li>
         </ul>
         </p>
       </div>
@@ -47,10 +44,9 @@ clients.</li>
         <h3><a href="https://hitstrat.com/" class="timeline-link">HIT Strategies</a></h3>
         <p class="timeline-date">Jun 2020 – Sep 2021 · Washington, D.C. - USA</p>
         <p><ul>
-          <li>Developed sampling strategies and weighting protocols for political polls; oversaw data collection and processing;
-fielded all methodology-related client inquiries.</li>
-          <li>Conducted econometric analyses (e.g., classification, regression, clustering, feature selection) of survey data
-using R; created data visualizations using ggplot2, Shiny, and Tableau; automated data processing procedures.</li>
+          <li>Directed methodological strategy for a survey research firm serving political campaigns, advocacy organizations, and nonprofit clients, overseeing sampling, weighting, statistical analysis, visualization, and client delivery.</li>
+          <li>Applied regression, classification, clustering, feature selection, and experimental methods to identify drivers of attitudes and behavior, evaluate message effectiveness, segment audiences, and translate findings into actionable recommendations for campaign and advocacy strategy.</li>
+          <li>Standardized and automated research production workflows in R, built custom Shiny dashboards for interactive reporting, and supervised and mentored two Data Associates and an intern, improving methodological consistency and delivery across concurrent projects.</li>
         </ul>
         </p>
       </div>
